@@ -1,0 +1,12 @@
+id_client: 1,
+annee: 2023,
+Consommation: 34000,
+id_consommation: 16,
+date_s: 2024-01-02
+
+id_client: 1,
+annee: 2022,
+Consommation: 7000,
+id_consommation: 16,
+date_s: 2023-01-02
+
